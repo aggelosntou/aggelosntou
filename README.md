@@ -7,14 +7,7 @@ Currently growing my tech skills to use mathematics and AI for the greater good.
 
 ---
 
-### 💻 Languages & Tools
-- Python 🐍
-- LaTeX ✍️
-- Comming Next: Rust 🦀, C++
-
----
-
-### 🌱 What I'm into
+### What I'm into
 - Turning math into code  
 - Exploring AI & machine learning  
 - Tech Startups
